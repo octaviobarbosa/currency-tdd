@@ -67,7 +67,6 @@
     ],
     "coveragePathIgnorePatterns": [
       "node_modules",
-      ".module.ts",
       "main.ts"
     ],
     "coverageDirectory": "../coverage",
